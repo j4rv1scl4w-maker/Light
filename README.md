@@ -3,7 +3,7 @@
 Personal blog on **tech, AI and software development**. Static site built with
 [Jekyll](https://jekyllrb.com/) and published for free with **GitHub Pages**.
 
-🔗 **Site:** https://j4rv1scl4w-maker.github.io/light
+🔗 **Site:** https://j4rv1scl4w-maker.github.io/kAIros
 
 ---
 
@@ -88,7 +88,7 @@ the sitemap URL.
 ```bash
 bundle install
 bundle exec jekyll serve
-# open http://localhost:4000/light
+# open http://localhost:4000/kAIros
 ```
 
 ---
