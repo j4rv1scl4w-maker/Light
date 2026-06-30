@@ -1,28 +1,37 @@
 ---
 layout: page
-title: "Chi sono"
-subtitle: "Tech · AI · Sviluppo"
+title: "About"
+subtitle: "Tech · AI · Software"
 permalink: /about/
-description: "Chi è Nicolò Marana: tecnologia, intelligenza artificiale e sviluppo software."
+description: "About Nicolò Marana — technology, artificial intelligence and software development."
 ---
 
-Ciao, sono **Nicolò Marana**.
+Hi, I'm **Nicolò Marana**.
 
-Mi occupo di tecnologia, intelligenza artificiale e sviluppo software. Questo
-blog è il posto dove raccolgo appunti, esperimenti e riflessioni: cose che
-imparo costruendo, strumenti che provo e idee su dove sta andando il settore.
+I work in technology, artificial intelligence and software development. Kairos
+is where I collect notes, experiments and reflections: things I learn while
+building, tools I try out, and ideas about where the field is heading.
 
-Niente fronzoli, contenuti concreti.
+No fluff, just concrete content.
 
-## Di cosa scrivo
+## What I write about
 
-- 🤖 **Intelligenza artificiale** — modelli, applicazioni pratiche, tendenze
-- 💻 **Sviluppo software** — strumenti, tecniche, lezioni dal campo
-- 🚀 **Prodotto & tech** — come la tecnologia cambia il modo in cui lavoriamo
+- 🤖 **Artificial intelligence** — models, practical applications, trends
+- 💻 **Software development** — tools, techniques, lessons from the field
+- 🚀 **Product & tech** — how technology changes the way we work
 
-## Restiamo in contatto
+<!-- ============================================================
+     EXPERIENCE / REFERENCES
+     This section will be filled in with details from Nicolò's
+     LinkedIn profile (current role, past experience, education).
+     ============================================================ -->
+## Experience
+
+*Coming soon — professional background and references.*
+
+## Let's connect
 
 - ✉️ Email: <nicolo.marana@gmail.com>
-- 📡 [Feed RSS]({{ '/feed.xml' | relative_url }}) per non perdere nulla
+- 📡 [RSS feed]({{ '/feed.xml' | relative_url }}) so you don't miss anything
 
-> Hai un'idea, una domanda o vuoi confrontarti su un progetto? Scrivimi pure.
+> Got an idea, a question, or want to talk about a project? Reach out.
