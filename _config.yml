@@ -16,11 +16,12 @@ baseurl: "/light"
 lang: "en"
 timezone: "Europe/Rome"
 
-# --- Social / links (leave empty to hide) ---
+# --- Social / links (leave blank to hide) ---
+# For LinkedIn use just the username from linkedin.com/in/USERNAME
 social:
   github: "j4rv1scl4w-maker"
-  linkedin: ""
-  twitter: ""
+  linkedin:
+  twitter:
 
 # --- Build ---
 markdown: kramdown

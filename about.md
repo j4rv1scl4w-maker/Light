@@ -1,37 +1,46 @@
 ---
 layout: page
-title: "About"
+title: "About Kairos"
 subtitle: "Tech · AI · Software"
 permalink: /about/
-description: "About Nicolò Marana — technology, artificial intelligence and software development."
+description: "What Kairos is, and who's behind it — a publication on technology, AI and software development by Nicolò Marana."
 ---
 
-Hi, I'm **Nicolò Marana**.
+**Kairos** is a publication on technology, artificial intelligence and
+software development. Notes, experiments and analysis on the tools that are
+reshaping how we build — and on where the field is heading.
 
-I work in technology, artificial intelligence and software development. Kairos
-is where I collect notes, experiments and reflections: things I learn while
-building, tools I try out, and ideas about where the field is heading.
+The name comes from the Greek *καιρός (kairós)*: **the right, opportune
+moment**. That's the idea behind it — cutting through the noise to understand
+technology at the moment it actually matters.
 
-No fluff, just concrete content.
+## What you'll find here
 
-## What I write about
-
-- 🤖 **Artificial intelligence** — models, practical applications, trends
+- 🤖 **Artificial intelligence** — models, real-world applications, trends
 - 💻 **Software development** — tools, techniques, lessons from the field
 - 🚀 **Product & tech** — how technology changes the way we work
 
-<!-- ============================================================
-     EXPERIENCE / REFERENCES
-     This section will be filled in with details from Nicolò's
-     LinkedIn profile (current role, past experience, education).
-     ============================================================ -->
-## Experience
+No fluff, no hype for its own sake — just substance.
 
-*Coming soon — professional background and references.*
+## Who's behind it
 
-## Let's connect
+Kairos is written by **Nicolò Marana**, who works in technology, artificial
+intelligence and software development. Everything here comes from hands-on
+experience: things built, tools tested, ideas worth sharing.
 
-- ✉️ Email: <nicolo.marana@gmail.com>
-- 📡 [RSS feed]({{ '/feed.xml' | relative_url }}) so you don't miss anything
+<!-- TODO: expand this short bio with details from LinkedIn
+     (current role, background, focus areas). -->
+
+{% if site.social.linkedin %}
+<p class="cta-row">
+  <a class="btn btn-primary" href="https://www.linkedin.com/in/{{ site.social.linkedin }}" rel="me noopener" target="_blank">Connect on LinkedIn →</a>
+</p>
+{% endif %}
+
+## Stay in touch
+
+{% if site.social.linkedin %}- 💼 [LinkedIn](https://www.linkedin.com/in/{{ site.social.linkedin }}) — let's connect
+{% endif %}- ✉️ Email: <nicolo.marana@gmail.com>
+- 📡 [RSS feed]({{ '/feed.xml' | relative_url }}) — never miss an article
 
 > Got an idea, a question, or want to talk about a project? Reach out.
